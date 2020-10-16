@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a simple react application that takes an input and finds the github profiles related to the input. It makes use of the github api.\
+This application is also hosted on netlify:https://githubfinder69420.netlify.app/
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
